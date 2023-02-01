@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alnur
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Java
 - 📫 You can reach me via email akab2310@gmail.com
 
 # My Stats 
