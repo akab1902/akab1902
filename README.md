@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Alnur
-- 👀 Software engineer specializing in backend and distributed systems, currently working on liquidity and trading platform services at a global crypto exchange. Adept in collaborating with and supporting trading desks to maintain automated strategies. Interested in building low-latency, highly available and robust trading systems.
+- 👀 Software engineer specializing in backend and distributed systems
+- 📈 Currently working on liquidity and trading platform services at a global crypto exchange
+- 🚀 Interested in building low-latency, highly available and robust trading systems
 - 📫 You can reach me via email akab2310@gmail.com
